@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manoj-025
-- 👀 I’m interested in to do something in development field 
-- 🌱 I’m currently learning front-end java 
+- 👀 **MERN Stack Developer**
+- 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on any minor project 
 - 📫 How to reach me mjkushwah31@gmail.com
 - 😄 Pronouns: maanu
